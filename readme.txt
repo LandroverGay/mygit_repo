@@ -6,4 +6,8 @@ aaaaaa
 DDDDDDDDDDDDD
 dddddddddddddddddddd
 eeeeeeeeeeeeee
+<<<<<<< HEAD
 mmmmmmmmmmmmmmm
+=======
+mmmmmmmmmmmmmmm
+>>>>>>> feature
