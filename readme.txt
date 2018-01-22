@@ -1,4 +1,4 @@
-DDDDDDD
+DDDDDD
 asdadaf
 dasf
 ddddddd
@@ -12,4 +12,8 @@ mmmmmmmmmmmmmmm
 mmmmmmmmmmmmmmm
 >>>>>>> feature
 rerererererer
+<<<<<<< HEAD
 dev1dev1
+=======
+dev2dev2
+>>>>>>> dev2
